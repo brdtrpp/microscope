@@ -1,7 +1,7 @@
 if (Posts.find().count() === 0) {
     Posts.insert({
         title: 'Introduction Telescope',
-        url: 'http://saschgreif.com/introducng-telescope/'
+        url: 'http://saschgreif.com/introducing-telescope/'
     });
 
     Posts.insert({
